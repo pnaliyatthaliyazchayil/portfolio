@@ -19,7 +19,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 // --- Typewriter effect below "Hi, I'm Parvati." ---
 document.addEventListener("DOMContentLoaded", () => {
   const roles = [
-    "Clinical informaticist",
+    "Sr. Clinical informaticist",
     "Pharmacist",
     "Product Manager",
     "Independent researcher",
