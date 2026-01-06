@@ -1,2 +1,1 @@
-# portfolio
-Professional experience and published works
+# parvatinaliyat.github.io
